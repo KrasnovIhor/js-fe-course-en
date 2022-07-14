@@ -1,5 +1,4 @@
-## Evaluation criteria:
-**The maximum score for the task: 200 points**
+## Alexandra:
 
 ### Basic scope +50/+80
 
